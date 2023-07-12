@@ -25,6 +25,16 @@ IPTV avec les chaînes sportives françaises
 19. RMC SPORT 10
 20. RMC SPORT 13
 21. RMC SPORT 14
+22. beIN Sports 1
+23. beIN Sports 2
+24. beIN Sports 3
+25. beIN Sports Max 4
+26. beIN Sports Max 5
+27. beIN Sports Max 6
+28. beIN Sports Max 7
+29. beIN Sports Max 8
+30. beIN Sports Max 9
+31. beIN Sports Max 10
 # Comment l'utiliser
 - copiez le lien ci-dessous et ouvrez vlc et appuyez sur Ctrl + N et collez le lien puis appuyez sur entrée
 ```bash
