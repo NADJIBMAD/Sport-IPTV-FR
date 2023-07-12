@@ -49,3 +49,6 @@ https://github.com/majdsassi/Sport-IPTV-FR/assets/108025873/f3778d6a-65c8-4342-a
 
 - ou bien téléchargez le fichier et ouvrez-le directement
 - nous recommandons le premier en cas dede mise à jour ou de problème
+## Contact
+
+For any questions or inquiries, please contact [majd sassi](mailto:jackreider977@gmail.com).
