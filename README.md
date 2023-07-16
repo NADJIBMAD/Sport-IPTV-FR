@@ -1,5 +1,5 @@
 # Sport-IPTV-FR
-IPTV avec les chaînes sportives françaises
+IPTV avec les chaînes sportives françaises [Always Updated]
 
 ![image](https://github.com/majdsassi/Sport-IPTV-FR/assets/108025873/796860aa-f891-417d-8590-9765191b1254)
 
